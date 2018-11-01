@@ -23,5 +23,5 @@ g++ main.cc -lgmpxx -lgmp -o main
 ```
 例:
 ```
-./m 12 15 3
+./main 12 15 3
 ```
