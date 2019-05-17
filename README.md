@@ -1,4 +1,4 @@
-# collision-probability
+# counting-derangement
 
 ## 功能
 python代码包含递推公式的实现和碰撞概率的仿真   
